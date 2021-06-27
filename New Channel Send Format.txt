@@ -1,0 +1,4 @@
+const logs = await message.guild.channels.cache.find(channel => channel.name === `${config.logsChannel}`);
+
+logs.send
+
