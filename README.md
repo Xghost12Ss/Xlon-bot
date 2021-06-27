@@ -1,4 +1,4 @@
-# Xlon Discord Bot v1.1.1
+# Xlon Discord Bot v1.1
 
 Hello guys, this is my bot.
 
