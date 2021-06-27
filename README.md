@@ -9,5 +9,5 @@ Bot commands:
 - Vip
 - Other
 
-Discord Server - https://discord.gg/MkzDkACHMD
+Discord Server - https://discord.gg/DA3PFWwDvu
 Tnx for using my bot.
