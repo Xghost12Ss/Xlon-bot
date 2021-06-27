@@ -1,0 +1,10 @@
+if (!message.member.hasPermission("ADMINISTRATOR")) {
+	message.reply("You do not have permission to execute this command!")
+}
+
+
+if(message.member.roles.cache.find(r => r.name === "ROLENAME")){
+	// Command
+} else {
+	message.reply("You do not have permission to execute this command!")
+}
