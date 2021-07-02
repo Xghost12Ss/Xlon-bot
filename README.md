@@ -18,11 +18,7 @@ Before the first run you must enter your bot token in the file `config.json`.
 
 [Please see this excellent guide for how to create your discord bot's account and get your bot token.](https://discordjs.guide/preparations/setting-up-a-bot-application.html)
 
-Open cmd and type [npm install discord.js] after installing discord.js type [node .] now your bot is online.
-
-# Author
-
-Im Xghost12S i am C++ Dev, learning javascript.
+Open cmd and type `npm install discord.js` after installing discord.js type `node .` now your bot is online.
 
 ## I want to add a command!
 
@@ -31,3 +27,7 @@ Take a look at the ping command as an example, you can find it in the commands f
 # Help
 
 If you need help, feel free to join me on [Discord](https://discord.gg/DA3PFWwDvu).
+
+# Author
+
+Im Xghost12S i am C++ Dev, learning javascript.
