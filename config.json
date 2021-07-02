@@ -1,0 +1,26 @@
+{
+    "prefix": ".",
+    "botName": "Xlon",
+
+    "botIcon": "https://imgur.com/gallery/Wzu1Ozc",
+    "botId": "837349545633251429",
+    "botVersion": "v1.1 Stable",
+    "botVersionShort": "v1.1",
+
+    "ownerId": "483145558547234837",
+    "ownerName": "Xghost12S",
+
+    "color": "",
+    "colour": "",
+    "successColor": "#8AC33E",
+    "failColor": "#FF0000",
+
+    "successEmoji": ":white_check_mark:",
+    "failureEmoji": "<:atlanta_error:736144198318686278>",
+    "alertEmoji": "<:atlanta_warn:598179558927106058>",
+    "loadingEmoji": "<a:atlanta_loading:743090350490648727>",
+
+    "logsChannel": "bot-logs",
+    "staffMailChannel": "staff-mail",
+    "reportsChannel": "staff-mail"
+}
