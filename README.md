@@ -6,10 +6,6 @@ A Discord Bot Base, built on top of <a href="https://discord.js.org">discord.js<
 
 This bot runs on [node.js](https://nodejs.org). You will need at least node 12. In order for music playback to work, you will need python and ffmpeg to be present on your system.
 
-### General
-
-Install [node 12 or newer](<(https://nodejs.org/en/download/)>).
-
 Run `npm install` in the bot directory and make sure it passes.
 
 # Setting up
@@ -30,4 +26,4 @@ If you need help, feel free to join me on [Discord](https://discord.gg/DA3PFWwDv
 
 # Author
 
-Im Xghost12S i am C++ Dev, learning javascript.
+Im Xghost12S i am  Developer.
