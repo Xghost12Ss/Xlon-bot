@@ -1,0 +1,26 @@
+{
+    "prefix": ".",
+    "botName": "Xlon",
+
+    "botIcon": "https://cdn.discordapp.com/avatars/818191077734350848/739df98b3f68c5bb871766f5783f9769.png?size=256",
+    "botId": "818191077734350848",
+    "botVersion": "v2.5 Stable",
+    "botVersionShort": "v2.5",
+
+    "ownerId": "360832097495285761",
+    "ownerName": "Xlon",
+
+    "color": "",
+    "colour": "",
+    "successColor": "#8AC33E",
+    "failColor": "#FF0000",
+
+    "successEmoji": ":white_check_mark:",
+    "failureEmoji": "<:atlanta_error:736144198318686278>",
+    "alertEmoji": "<:atlanta_warn:598179558927106058>",
+    "loadingEmoji": "<a:atlanta_loading:743090350490648727>",
+
+    "logsChannel": "bot-logs",
+    "staffMailChannel": "staff-mail",
+    "reportsChannel": "staff-mail"
+}
