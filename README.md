@@ -23,7 +23,3 @@ Take a look at the ping command as an example, you can find it in the commands f
 # Help
 
 If you need help, feel free to join me on [Discord](https://discord.gg/DA3PFWwDvu).
-
-# Author
-
-Im Xghost12S i am  Developer.
